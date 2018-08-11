@@ -4,7 +4,7 @@ import Rubbish.PieceOfRubbish;
 
 import java.util.ArrayList;
 
-public class Bin {
+public abstract class Bin {
 
     private String type;
     private double weightCapacity;
@@ -34,8 +34,9 @@ public class Bin {
         return allRubbish;
     }
 
+
     public boolean addItemsToBin(PieceOfRubbish pieceOfRubbish) {
-        if (pieceOfRubbish.getWeight() + getWeightOfItemsInBin() < this.weightCapacity) {
+        if ((pieceOfRubbish.getWeight() + getWeightOfItemsInBin()) <= this.weightCapacity) {
             allRubbish.add(pieceOfRubbish);
             return true;
         } else {
@@ -52,3 +53,4 @@ public class Bin {
     }
 
 }
+

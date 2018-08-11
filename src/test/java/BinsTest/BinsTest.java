@@ -80,18 +80,30 @@ public class BinsTest {
 
     @Test
     public void checkWeightOfBin(){
-
+        glass.addItemsToBin(pet1);
+        glass.addItemsToBin(plastic);
+        assertEquals(2, glass.getRubbish().size());
+        assertEquals(41.0, glass.getWeightOfItemsInBin(), 0);
     }
 
     @Test
     public void binChargesForPieceOfTrash(){
         assertEquals(100.0, glass.priceForPieceOfTrash(pet1), 0);
+        assertEquals(400.0, landfill.priceForPieceOfTrash(pet1), 0);
     }
 
     @Test
     public void binTotalChargeForTrash(){
         glass.addItemsToBin(pet1);
-        glass.addItemsToBin(pet1);
-        assertEquals(100.0, glass.getPriceOfItemsInBin(), 0);
+        glass.addItemsToBin(plastic);
+        assertEquals(102.5, glass.getPriceOfItemsInBin(), 0);
     }
+
+    @Test
+    public void binTotalChargeForTrashLandfill(){
+        landfill.addItemsToBin(pet1);
+        landfill.addItemsToBin(plastic);
+        assertEquals(410.0, landfill.getPriceOfItemsInBin(), 0);
+    }
+
 }
