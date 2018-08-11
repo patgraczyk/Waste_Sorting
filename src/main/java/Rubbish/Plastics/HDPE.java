@@ -1,8 +1,16 @@
 package Rubbish.Plastics;
 
-public class HDPE extends Plastic{
+import Interfaces.IReusable;
+import Rubbish.PieceOfRubbish;
+
+public class HDPE extends Plastic implements IReusable {
     public HDPE(String itemName, int quantity, double weight, String plastictype) {
         super(itemName, quantity, weight, plastictype);
+    }
+
+    @Override
+    public void reuse(PieceOfRubbish pieceOfRubbish) {
+
     }
 }
 

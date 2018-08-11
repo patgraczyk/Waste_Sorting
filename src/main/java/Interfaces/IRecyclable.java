@@ -1,9 +1,10 @@
 package Interfaces;
 
 import Bins.Bin;
+import Rubbish.PieceOfRubbish;
 import Sorter.Sorter;
 
 public interface IRecyclable {
 
-   void recycle(Sorter sort);
+   void recycle(PieceOfRubbish pieceOfRubbish);
 }

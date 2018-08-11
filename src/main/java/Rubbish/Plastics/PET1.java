@@ -2,6 +2,7 @@ package Rubbish.Plastics;
 
 import Bins.Bin;
 import Interfaces.IRecyclable;
+import Rubbish.PieceOfRubbish;
 import Sorter.Sorter;
 
 public class PET1 extends Plastic implements IRecyclable {
@@ -10,9 +11,10 @@ public class PET1 extends Plastic implements IRecyclable {
     }
 
     @Override
-    public void recycle(Sorter sorter) {
-        sorter.addItem;
+    public void recycle(PieceOfRubbish pieceOfRubbish) {
+        ;
     }
+
 }
 
 //Can be recycled
