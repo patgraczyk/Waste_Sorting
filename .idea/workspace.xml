@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79b25f1d-cd80-4a9f-986f-3ae761c14953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/production/classes/Bear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/production/classes/NumberList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/production/classes/River.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/production/classes/Salmon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/production/classes/WordCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/test/classes/BearTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/test/classes/NumberListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/test/classes/RiverTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/out/test/classes/WordCollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/main/java/WordCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/test/java/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array_start_point mine/src/test/java/RiverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_3/composition_lab/Composition_lab_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_1/classes_intro/code/specs/bank_account_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_02/day_1/classes_intro/code/specs/bank_account_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/board.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/dice.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/game.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/player.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/run_specs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/snakes_and_ladders.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/specs/board_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/specs/game_play_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/specs/game_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/specs/player_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/specs/turn_log_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/turn_log.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/day_3/homework_code-review/snakes_and_ladders_sample_solution/snakes_and_ladders/viewer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_02/weekend_homework/weekend_homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_1/cinema_crud_sql_hw/homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_1/cinema_crud_sql_hw/marvel.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_2/pizza_shop_sql_rb/end_point/model/pizza_order.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_03/day_2/pizza_shop_sql_rb/end_point/model/pizza_order.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_end/pizza_shop/db/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_end/pizza_shop/db/pizza_shop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_end/pizza_shop/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_end/pizza_shop/models/customer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_end/pizza_shop/models/pizza_order.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_start/pizza_shop/db/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_start/pizza_shop/db/pizza_shop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_3/one_to_many_pizza_shop/one_to_many_pizza_start/pizza_shop/models/pizza_order.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/many_to_many.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/db/quest_advisor.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/location.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/visit.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/sql_inner_joins/sql_joins_many_to_many/many_to_many.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/sql_inner_joins/sql_joins_many_to_many/zombies.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/sql_inner_joins/sql_joins_one_to_many/one_to_many.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/day_4/sql_inner_joins/sql_joins_one_to_many/star_wars.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/db/cinema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/models/customer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/models/film.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/models/screening.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_advanced/models/ticket.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/db/cinema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/models/customer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/models/film.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/homework_cinema_basic_extensions/models/ticket.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/hw_top_tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_03/weekend_hw_cinema/weekend_hw_cinema.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_2/intro_to_web_programming.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_04/intro_to_web_programming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_2/mvc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_2/sinatra_calc/sinatra_calc_start/models/calculator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_2/sinatra_calc/sinatra_calc_start/specs/calculator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_2/sinatra_intro/sinatra_intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_3/hogwarts_lab_solution/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_3/pizza_shop/end_of_class/views/new.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_04/day_3/pizza_shop/end_of_class/views/new.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/app.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/controllers/bitings_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/controllers/victims_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/controllers/zombies_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/db/zombies.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/models/action.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/models/biting.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/models/victim.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/models/zombie.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/images/hazard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/styles/buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/styles/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/styles/structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/public/styles/tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/bitings/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/bitings/new.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/victims/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/victims/show.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/zombies/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_04/day_4/many_to_many_sinatra_zombies/views/zombies/show.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/src/main/java/NumberList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/src/main/java/WordCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/src/test/java/NumberListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/src/test/java/NumberListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/3.5-rc-2/file-changes/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/modules/Array_and_ArrayLists_start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/modules/Array_and_ArrayLists_start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/modules/Array_and_ArrayLists_start_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/modules/Array_and_ArrayLists_start_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/modules/Array_and_ArrayLists_start_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/modules/Array_and_ArrayLists_start_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/src/main/java/WordCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/arrays_arraylists/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_2/classes_homework/classes_homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/debugging_video_homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/4.9/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.9/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/4.9/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/modules/BearProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/modules/BearProject_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/modules/BearProject_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/out/production/classes/HashMapsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/out/test/classes/CardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/bearproject/src/main/java/HashMapsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/hashmaps/hashmaps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/.idea/modules/High_Low_Solution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Deck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Hand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/production/classes/Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/test/classes/CardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/test/classes/DeckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/test/classes/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/test/classes/HandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/out/test/classes/PlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/main/java/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/main/java/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/main/java/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/main/java/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/main/java/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/test/java/CardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/test/java/DeckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/test/java/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/test/java/HandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/high_low_lab_solution/src/test/java/PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/highest_card_lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_3/quiz_homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/abstract_classes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/modules/AbstractClassesTask.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/modules/AbstractClassesTask_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/modules/AbstractClassesTask_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/production/classes/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/production/classes/Motorbike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/production/classes/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/test/classes/CarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/test/classes/MotorbikeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/out/test/classes/VehicleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/main/java/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/main/java/Motorbike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/main/java/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/test/java/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/test/java/MotorbikeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/abstract_classes/code/abstract_classes_start_point/src/test/java/VehicleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/modules/inheritance_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/modules/inheritance_start_point_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/modules/inheritance_start_point_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/out/production/classes/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/out/production/classes/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/out/test/classes/InstructorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/out/test/classes/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/src/main/java/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/src/main/java/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/src/test/java/InstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/day_4/inheritance/inheritance_start_point/src/test/java/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/modules/CCTowersSolution_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/modules/CCTowersSolution_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/modules/CCTowersSolution_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/modules/CCTowersSolution_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/model_a_system_homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/modules/ThemePark_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/modules/ThemePark_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/modules/ThemePark_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/modules/ThemePark_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_1/homework/theme_park_solution/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/modules/InterfacesStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/modules/InterfacesStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/modules/InterfacesStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/Athlete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/Cyclist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/ICanDoTriathlon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/ICycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/IRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/ISwim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/Swimmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/production/classes/Triathlete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/test/classes/RunnerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/test/classes/SwimmerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/out/test/classes/TriathleteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/main/java/Athlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/main/java/Cyclist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/main/java/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/main/java/Swimmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/main/java/Triathlete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/test/java/CyclistTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/test/java/RunnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/test/java/SwimmerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces/code/interfaces_start_point/src/test/java/TriathleteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/modules/InterfacesLabSolution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/modules/InterfacesLabSolution_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/modules/InterfacesLabSolution_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/Components/CDPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/Components/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/Components/IPlay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/Components/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/Components/RecordPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/StereoStuff/IConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/StereoStuff/MP3Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/production/classes/StereoStuff/Stereo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/test/classes/CDPlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/test/classes/MP3PlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/test/classes/RadioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/test/classes/RecordPlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/out/test/classes/StereoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/Components/CDPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/Components/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/Components/IPlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/Components/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/Components/RecordPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/StereoStuff/IConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/StereoStuff/MP3Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/main/java/StereoStuff/Stereo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/test/java/CDPlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/test/java/MP3PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/test/java/RadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/test/java/RecordPlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution/src/test/java/StereoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/modules/InterfacesLabSolution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/modules/InterfacesLabSolution_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/modules/InterfacesLabSolution_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/Components/CDPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/Components/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/Components/IPlay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/Components/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/Components/RecordPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/StereoStuff/IConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/StereoStuff/MP3Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/production/classes/StereoStuff/Stereo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/test/classes/CDPlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/test/classes/MP3PlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/test/classes/RadioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/test/classes/RecordPlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/out/test/classes/StereoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Components/CDPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Components/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Components/IPlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Components/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Components/RecordPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Outputs/Headphones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Outputs/IOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/Outputs/Speaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/StereoStuff/IConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/StereoStuff/MP3Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/main/java/StereoStuff/Stereo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/CDPlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/HeadphonesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/MP3PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/RadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/RecordPlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/SpeakerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/interfaces_lab/interfaces_lab_solution_extended/src/test/java/StereoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/production/classes/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/production/classes/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/out/test/classes/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/main/java/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/main/java/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_end_point/src/test/java/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/out/production/classes/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/src/main/java/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/no_polymorphism_start_point/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../array_start_point mine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/production/classes/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/production/classes/IConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/production/classes/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/out/test/classes/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/main/java/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/main/java/IConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/main/java/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_end_point/src/test/java/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/production/classes/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/production/classes/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/out/test/classes/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/modules/NoPolymorphismStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/modules/NoPolymorphismStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/modules/NoPolymorphismStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/production/classes/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/production/classes/IConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/production/classes/InternetRadio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/production/classes/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/test/classes/InternetRadioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/out/test/classes/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/main/java/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/main/java/IConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/main/java/InternetRadio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/main/java/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/test/java/InternetRadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/polymorphism_lab_solution/src/test/java/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/main/java/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/main/java/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/code/polymorphism_start_point/src/test/java/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/no_polymorphism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism/polymorphism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/4.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../week_06/weekend_homework/cc_towers_solution_extended/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/production/classes/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/production/classes/INetworkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/production/classes/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/production/classes/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/test/classes/ComputerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/out/test/classes/NetworkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/main/java/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/main/java/INetworkable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/main/java/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/main/java/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_1/polymorphism_as_delivered/networkadmin/src/test/java/NetworkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_end_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition/composition_end_point/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/modules/composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/modules/composition_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/modules/composition_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/beasts/Dragon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/beasts/MythicalBeast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/beasts/Ogre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/carpets/Carpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/carpets/MagicCarpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/carpets/Rug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/cleaning/Broomstick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/cleaning/CleaningImplement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/cleaning/Mop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/production/classes/wizard_management/people/Wizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/BroomstickTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/DragonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/MagicCarpetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/MopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/OgreTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/RugTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/out/test/classes/WizardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/beasts/Dragon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/beasts/MythicalBeast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/beasts/Ogre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/carpets/Carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/carpets/MagicCarpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/carpets/Rug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/cleaning/Broomstick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/cleaning/CleaningImplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/cleaning/Mop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/main/java/wizard_management/people/Wizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/BroomstickTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/DragonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/MagicCarpetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/MopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/OgreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/RugTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition/composition_start_point/src/test/java/WizardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/Composition_lab_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_3/composition_lab/Composition_lab_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/modules/CompositionStartPoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/modules/CompositionStartPoint_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/modules/CompositionStartPoint_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/behaviours/IOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/PrintingDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Radio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/SoundDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Speaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/TypeWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/main/java/device_management/VideoDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/ComputerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/MonitorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/RadioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/SpeakerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/TelevisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/composition_lab/composition_lab_start_point/src/test/java/TypeWriterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_3/hw_quiz/polymorphism_composition_quiz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/modules/fantasy_adventure_basic_solution_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/modules/fantasy_adventure_basic_solution_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/modules/fantasy_adventure_basic_solution_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/modules/fantasy_adventure_basic_solution_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekend_hw/homework.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2119028376">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Bins/Bin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Products/ConversionFactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Consumer/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sorter/Sorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Waste" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Waste" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Waste'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Waste'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Waste'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Waste'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6135663800000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="896249364" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2145343474" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Waste" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Bins/Bin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="71" />
+    <option name="y" value="23" />
+    <option name="width" value="1182" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Bins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Waste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend_hmwrk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533985006159" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79b25f1d-cd80-4a9f-986f-3ae761c14953" name="Default Changelist" comment="" />
+      <created>1533915943880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533915943880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="23" width="1182" height="728" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3301887" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32967034" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bins/Bin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Products/ConversionFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorter/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
