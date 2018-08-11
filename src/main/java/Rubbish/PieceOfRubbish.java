@@ -4,15 +4,15 @@ public abstract class PieceOfRubbish {
 
     private String itemName;
     private int quantity;
-    private int weight;
+    private double weight;
 
-    public PieceOfRubbish(String itemName, int quantity, int weight) {
+    public PieceOfRubbish(String itemName, int quantity, double weight) {
         this.itemName = itemName;
         this.quantity = quantity;
         this.weight = weight;
     }
 
-    public String getName() {
+    public String getItemName() {
         return itemName;
     }
 
@@ -20,7 +20,9 @@ public abstract class PieceOfRubbish {
         return quantity;
     }
 
-    public int getWeight() {
+    public double getWeight() {
         return weight;
     }
+
+
 }

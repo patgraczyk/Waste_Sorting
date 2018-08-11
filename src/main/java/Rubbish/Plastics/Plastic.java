@@ -6,10 +6,11 @@ public class Plastic extends PieceOfRubbish {
 
         private String plastictype;
 
-        public Plastic(String itemName, int quantity, int weight, String plastictype) {
+        public Plastic(String itemName, int quantity, double weight, String plastictype) {
         super(itemName, quantity, weight);
         this.plastictype = plastictype;
     }
+
 
 
 

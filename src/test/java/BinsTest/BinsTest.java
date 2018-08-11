@@ -4,6 +4,10 @@ import Bins.Compost;
 import Bins.Glass;
 import Bins.Landfill;
 import Bins.MixedRecycling;
+import Rubbish.PieceOfRubbish;
+import Rubbish.Plastics.HDPE;
+import Rubbish.Plastics.PET1;
+import Rubbish.Plastics.Plastic;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -15,6 +19,8 @@ public class BinsTest {
     Glass glass;
     Landfill landfill;
     MixedRecycling mixedRecycling;
+    PET1 pet1;
+    Plastic plastic;
 
     @Before
     public void before(){
@@ -22,6 +28,8 @@ public class BinsTest {
         glass = new Glass("glass", 70, "Monday");
         landfill = new Landfill("landfill waste", 60, "Tuesday");
         mixedRecycling = new MixedRecycling("mixed recycling", 40, "Wednesday");
+        pet1 = new PET1("cup", 40, 40, "PET1");
+        plastic = new Plastic("straw", 40, 1, "HDPE");
     }
 
     @Test
@@ -51,5 +59,39 @@ public class BinsTest {
         assertEquals(0, compost.getRubbish().size());
         assertEquals(0, landfill.getRubbish().size());
         assertEquals(0, glass.getRubbish().size());
+    }
+
+    @Test
+    public void addItemToBin(){
+        assertEquals(true, mixedRecycling.addItemsToBin(pet1));
+    }
+
+    @Test
+    public void addPlasticToBin(){
+        assertEquals(true, mixedRecycling.addItemsToBin(plastic));
+    }
+
+    @Test
+    public void binFullCantAddTrash(){
+        landfill = new Landfill("landfill waste", 5, "Tuesday");
+        pet1 = new PET1("cup", 40, 40, "PET1");
+        assertEquals(false, landfill.addItemsToBin(pet1));
+    }
+
+    @Test
+    public void checkWeightOfBin(){
+
+    }
+
+    @Test
+    public void binChargesForPieceOfTrash(){
+        assertEquals(100.0, glass.priceForPieceOfTrash(pet1), 0);
+    }
+
+    @Test
+    public void binTotalChargeForTrash(){
+        glass.addItemsToBin(pet1);
+        glass.addItemsToBin(pet1);
+        assertEquals(100.0, glass.getPriceOfItemsInBin(), 0);
     }
 }
