@@ -1,4 +1,4 @@
-package Products;
+package Rubbish;
 
 public enum ConversionFactor {
 }
