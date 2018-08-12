@@ -106,4 +106,9 @@ public class BinsTest {
         assertEquals(410.0, landfill.getPriceOfItemsInBin(), 0);
     }
 
+    @Test
+    public void addToBin(){
+        assertEquals(true, mixedRecycling.addToRecyclingBin(pet1,mixedRecycling));
+    }
+
 }

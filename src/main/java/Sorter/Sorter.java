@@ -35,8 +35,14 @@ public class Sorter {
         return reuseItems;
     }
 
-    public boolean addToRecycling(IRecyclable iRecyclable, Bin bin){
-    return bin.addItemsToBin((PieceOfRubbish) iRecyclable);
+//    public boolean addToCollectionifRecycable(PieceOfRubbish pieceOfRubbish) {
+//        recyclingItems.add(pieceOfRubbish);
+//        return true;
+//    }
+
+
+    public boolean addToRecyclingBin(IRecyclable iRecyclable, MixedRecycling mixedRecycling){
+    return mixedRecycling.addItemsToBin((PieceOfRubbish) iRecyclable);
     }
 
 

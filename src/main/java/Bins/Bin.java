@@ -1,5 +1,6 @@
 package Bins;
 
+import Interfaces.IRecyclable;
 import Rubbish.PieceOfRubbish;
 
 import java.util.ArrayList;
@@ -55,6 +56,7 @@ public abstract class Bin {
     public double getBinCapacityRemaining(){
         return (1-(getWeightOfItemsInBin()/weightCapacity))*100;
     }
+
 
 
 }

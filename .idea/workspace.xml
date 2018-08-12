@@ -848,21 +848,11 @@
       <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../day_4/fantasy_adventure_basic_solution/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Rubbish/ConversionFactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/RubbishTest/PlasticsTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bins/Bin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bins/Bin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/ICompostable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ICompostable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/IRecyclable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IRecyclable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/IReusable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IReusable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/NonPackagedOrganic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/NonPackagedOrganic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/Organic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/Organic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/PackagedOrganic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Organic/PackagedOrganic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/PieceOfRubbish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/PieceOfRubbish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/HDPE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/HDPE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/PET1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/PET1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/Vegware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/Vegware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sorter/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorter/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RubbishTest/PlasticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RubbishTest/PlasticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weekend_hw/homework.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -889,23 +879,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="71" />
+          <entry key="java" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="71" />
+          <entry key="JAVA" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="40" />
-          <entry key="java" value="4369" />
+          <entry key="java" value="5386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4369" />
+          <entry key="JAVA" value="5386" />
           <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
@@ -913,18 +903,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Rubbish/Organic/NonPackagedOrganic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rubbish/Organic/PackagedOrganic.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -961,10 +939,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RubbishTest/OrganicTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="118">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -976,8 +954,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bins/Bin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="855">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -994,10 +972,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="439">
+              <caret line="72" selection-start-line="72" selection-end-line="75" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#1418#1419#0" expanded="true" />
+                <element signature="e#2041#2042#0" expanded="true" />
+                <element signature="e#2107#2108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3128#3129#0" expanded="true" />
+                <element signature="e#3198#3199#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1005,8 +1018,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Sorter/Sorter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="409">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#560#561#0" expanded="true" />
@@ -1015,20 +1028,6 @@
                 <element signature="e#673#674#0" expanded="true" />
                 <element signature="e#719#720#0" expanded="true" />
                 <element signature="e#747#748#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Rubbish/Plastics/HDPE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1372,7 +1371,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ProductsTest/BinsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Products/Packaging.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bins/Compost.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java" />
         <option value="$PROJECT_DIR$/src/main/java/Consumer/Consumer.java" />
         <option value="$PROJECT_DIR$/src/test/java/Consumer/ConsumerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/Rubbish.java" />
@@ -1382,11 +1380,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/IChargable.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bins/Glass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bins/Landfill.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/ConversionFactorPlastic.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/PieceOfRubbish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sorter/Sorter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Bins/Bin.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/Organic/NonPackagedOrganic.java" />
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/IRecyclable.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/Plastics/PET1.java" />
@@ -1398,7 +1393,11 @@
         <option value="$PROJECT_DIR$/src/test/java/RubbishTest/PlasticsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rubbish/Organic/PackagedOrganic.java" />
         <option value="$PROJECT_DIR$/src/test/java/RubbishTest/OrganicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorter/Sorter.java" />
         <option value="$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bins/Bin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java" />
       </list>
     </option>
   </component>
@@ -1553,7 +1552,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534072439152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534076560886" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -1568,7 +1567,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Waste_test">
+  <component name="RunManager" selected="JUnit.BinsTest.addToBin">
     <configuration name="All in Waste_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Waste_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -1577,84 +1576,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganicTest.getDisposalInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinsTest.addToBin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Waste_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RubbishTest.*" />
+          <option name="PATTERN" value="BinsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RubbishTest" />
-      <option name="MAIN_CLASS_NAME" value="RubbishTest.OrganicTest" />
-      <option name="METHOD_NAME" value="getDisposalInfo" />
+      <option name="PACKAGE_NAME" value="BinsTest" />
+      <option name="MAIN_CLASS_NAME" value="BinsTest.BinsTest" />
+      <option name="METHOD_NAME" value="addToBin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganicTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorterTest.addToBin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Waste_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RubbishTest.*" />
+          <option name="PATTERN" value="SorterTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RubbishTest" />
-      <option name="MAIN_CLASS_NAME" value="RubbishTest.OrganicTest" />
-      <option name="METHOD_NAME" value="hasName" />
+      <option name="PACKAGE_NAME" value="SorterTest" />
+      <option name="MAIN_CLASS_NAME" value="SorterTest.SorterTest" />
+      <option name="METHOD_NAME" value="addToBin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganicTest.hasQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorterTest.addToCompostable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Waste_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RubbishTest.*" />
+          <option name="PATTERN" value="SorterTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RubbishTest" />
-      <option name="MAIN_CLASS_NAME" value="RubbishTest.OrganicTest" />
-      <option name="METHOD_NAME" value="hasQuantity" />
+      <option name="PACKAGE_NAME" value="SorterTest" />
+      <option name="MAIN_CLASS_NAME" value="SorterTest.SorterTest" />
+      <option name="METHOD_NAME" value="addToCompostable" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganicTest.hasWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorterTest.addToRecycling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Waste_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RubbishTest.*" />
+          <option name="PATTERN" value="SorterTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RubbishTest" />
-      <option name="MAIN_CLASS_NAME" value="RubbishTest.OrganicTest" />
-      <option name="METHOD_NAME" value="hasWeight" />
+      <option name="PACKAGE_NAME" value="SorterTest" />
+      <option name="MAIN_CLASS_NAME" value="SorterTest.SorterTest" />
+      <option name="METHOD_NAME" value="addToRecycling" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.OrganicTest.hasName" />
-      <item itemvalue="JUnit.OrganicTest.hasQuantity" />
-      <item itemvalue="JUnit.OrganicTest.hasWeight" />
-      <item itemvalue="JUnit.OrganicTest.getDisposalInfo" />
       <item itemvalue="JUnit.All in Waste_test" />
+      <item itemvalue="JUnit.SorterTest.addToRecycling" />
+      <item itemvalue="JUnit.SorterTest.addToCompostable" />
+      <item itemvalue="JUnit.SorterTest.addToBin" />
+      <item itemvalue="JUnit.BinsTest.addToBin" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinsTest.addToBin" />
+        <item itemvalue="JUnit.SorterTest.addToBin" />
+        <item itemvalue="JUnit.SorterTest.addToCompostable" />
         <item itemvalue="JUnit.All in Waste_test" />
-        <item itemvalue="JUnit.OrganicTest.getDisposalInfo" />
-        <item itemvalue="JUnit.OrganicTest.hasWeight" />
-        <item itemvalue="JUnit.OrganicTest.hasQuantity" />
-        <item itemvalue="JUnit.OrganicTest.hasName" />
+        <item itemvalue="JUnit.SorterTest.addToRecycling" />
       </list>
     </recent_temporary>
   </component>
@@ -1672,46 +1671,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlasticsTest_itemIsCompostable - 2018.08.12 at 11h 49m 34s.xml">
-      <configuration name="PlasticsTest.itemIsCompostable" configurationId="JUnit" />
+    <history-entry file="SorterTest_allCollectionsEmpty - 2018.08.12 at 12h 40m 59s.xml">
+      <configuration name="SorterTest.allCollectionsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlasticsTest_itemIsReusable - 2018.08.12 at 12h 01m 08s.xml">
-      <configuration name="PlasticsTest.itemIsReusable" configurationId="JUnit" />
+    <history-entry file="All_in_Waste_test - 2018.08.12 at 12h 41m 06s.xml">
+      <configuration name="All in Waste_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PlasticsTest_itemIsReusable - 2018.08.12 at 12h 01m 22s.xml">
-      <configuration name="PlasticsTest.itemIsReusable" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToRecycling - 2018.08.12 at 13h 02m 32s.xml">
+      <configuration name="SorterTest.addToRecycling" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_hasName - 2018.08.12 at 12h 04m 38s.xml">
-      <configuration name="OrganicTest.hasName" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToReusable - 2018.08.12 at 13h 05m 11s.xml">
+      <configuration name="SorterTest.addToReusable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_hasName - 2018.08.12 at 12h 05m 06s.xml">
-      <configuration name="OrganicTest.hasName" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToCompostable - 2018.08.12 at 13h 07m 10s.xml">
+      <configuration name="SorterTest.addToCompostable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_hasQuantity - 2018.08.12 at 12h 05m 57s.xml">
-      <configuration name="OrganicTest.hasQuantity" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToReusable - 2018.08.12 at 13h 07m 13s.xml">
+      <configuration name="SorterTest.addToReusable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_hasWeight - 2018.08.12 at 12h 06m 52s.xml">
-      <configuration name="OrganicTest.hasWeight" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToRecycling - 2018.08.12 at 13h 07m 17s.xml">
+      <configuration name="SorterTest.addToRecycling" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_getDisposalInfo - 2018.08.12 at 12h 07m 52s.xml">
-      <configuration name="OrganicTest.getDisposalInfo" configurationId="JUnit" />
+    <history-entry file="All_in_Waste_test - 2018.08.12 at 13h 07m 22s.xml">
+      <configuration name="All in Waste_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_getDisposalInfo - 2018.08.12 at 12h 09m 01s.xml">
-      <configuration name="OrganicTest.getDisposalInfo" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToCompostable - 2018.08.12 at 13h 09m 18s.xml">
+      <configuration name="SorterTest.addToCompostable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OrganicTest_getDisposalInfo - 2018.08.12 at 12h 09m 17s.xml">
-      <configuration name="OrganicTest.getDisposalInfo" configurationId="JUnit" />
+    <history-entry file="SorterTest_addToBin - 2018.08.12 at 13h 21m 42s.xml">
+      <configuration name="SorterTest.addToBin" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1253" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26837325" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26837325" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.17924528" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.12893082" />
@@ -1781,20 +1781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1732#1733#0" expanded="true" />
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1941#1942#0" expanded="true" />
-            <element signature="e#1971#1972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bins/Compost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1834,13 +1820,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1950,22 +1929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RubbishTest/PlasticsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rubbish/Organic/PackagedOrganic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1982,10 +1945,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RubbishTest/OrganicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RubbishTest/PlasticsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1338#1339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="72" selection-start-line="72" selection-end-line="75" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2107#2108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorter/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bins/Bin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="855">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -2000,35 +2021,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sorter/Sorter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bins/MixedRecycling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SorterTest/SorterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BinsTest/BinsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RubbishTest/OrganicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="333">
+          <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3198#3199#0" expanded="true" />
           </folding>
         </state>
       </provider>
