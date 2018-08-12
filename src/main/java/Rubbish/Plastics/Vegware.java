@@ -9,8 +9,8 @@ public class Vegware extends Plastic implements ICompostable {
     }
 
     @Override
-    public void compost(PieceOfRubbish pieceOfRubbish) {
-
+    public String compost() {
+        return "This item is compostable";
     }
 }
 

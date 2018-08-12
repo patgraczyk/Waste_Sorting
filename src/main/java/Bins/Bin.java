@@ -52,5 +52,10 @@ public abstract class Bin {
         return weightTotal;
     }
 
+    public double getBinCapacityRemaining(){
+        return (1-(getWeightOfItemsInBin()/weightCapacity))*100;
+    }
+
+
 }
 

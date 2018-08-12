@@ -9,8 +9,8 @@ public class HDPE extends Plastic implements IReusable {
     }
 
     @Override
-    public void reuse(PieceOfRubbish pieceOfRubbish) {
-
+    public String reuse() {
+        return "You can reuse this item, don't through it away";
     }
 }
 

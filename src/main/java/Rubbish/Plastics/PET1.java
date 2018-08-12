@@ -11,8 +11,8 @@ public class PET1 extends Plastic implements IRecyclable {
     }
 
     @Override
-    public void recycle(PieceOfRubbish pieceOfRubbish) {
-        ;
+    public String recycle() {
+        return "This item is recyclable";
     }
 
 }

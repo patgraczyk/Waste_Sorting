@@ -6,5 +6,5 @@ import Sorter.Sorter;
 
 public interface IRecyclable {
 
-   void recycle(PieceOfRubbish pieceOfRubbish);
+   String recycle();
 }
