@@ -7,6 +7,7 @@ import Bins.MixedRecycling;
 import Interfaces.ICompostable;
 import Interfaces.IRecyclable;
 import Interfaces.IReusable;
+import Rubbish.ConversionFactorPlastic;
 import Rubbish.Organic.PackagedOrganic;
 import Rubbish.Plastics.HDPE;
 import Rubbish.Plastics.PET1;
@@ -40,10 +41,10 @@ public class SorterTest {
         recyclingItems = new ArrayList<>();
         compostItems = new ArrayList<>();
         reuseItems = new ArrayList<>();
-        pet1 = new PET1("straw", 2, 90, "PET1");
-        hdpe = new HDPE( "chair", 1, 30, "HDPE");
+        pet1 = new PET1("straw", 2, 90, "PET1", ConversionFactorPlastic.PET1);
+        hdpe = new HDPE( "chair", 1, 30, "HDPE", ConversionFactorPlastic.HDPE);
         packagedOrganic = new PackagedOrganic("apple", 1, 40);
-        vegware = new Vegware("cup", 2,2, "vegware");
+        vegware = new Vegware("cup", 2,2, "vegware", ConversionFactorPlastic.VEGWARE);
     }
 
     @Test

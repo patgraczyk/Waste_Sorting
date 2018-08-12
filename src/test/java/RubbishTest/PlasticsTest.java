@@ -1,6 +1,7 @@
 package RubbishTest;
 
 import Interfaces.IRecyclable;
+import Rubbish.ConversionFactorPlastic;
 import Rubbish.Plastics.HDPE;
 import Rubbish.Plastics.PET1;
 import Rubbish.Plastics.Plastic;
@@ -19,9 +20,9 @@ public class PlasticsTest {
 
     @Before
     public void before(){
-        hdpe = new HDPE( "Cup", 1, 30, "HDPE");
-        vegware = new Vegware("plastic fork", 2, 40, "Vegware");
-        pet1 = new PET1("straw", 1, 15, "Pet1");
+        hdpe = new HDPE( "Cup", 1, 30, "HDPE", ConversionFactorPlastic.HDPE);
+        vegware = new Vegware("plastic fork", 2, 40, "Vegware", ConversionFactorPlastic.VEGWARE);
+        pet1 = new PET1("straw", 1, 15, "Pet1", ConversionFactorPlastic.PET1);
     }
 
     @Test
@@ -55,6 +56,17 @@ public class PlasticsTest {
     @Test
     public void itemIsReusable(){
         assertEquals("You can reuse this item, don't through it away", hdpe.reuse());
+    }
+
+    @Test
+    public void getConversionFactor(){
+        assertEquals(2.45, hdpe.getConversionFactor(), 0);
+        assertEquals(4.55, vegware.getConversionFactor(), 0);
+    }
+
+    @Test
+    public void getEmissionsOfProduct(){
+        assertEquals(3.64, vegware.productEmissions(), 0);
     }
 
 }

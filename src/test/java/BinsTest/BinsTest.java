@@ -4,6 +4,7 @@ import Bins.Compost;
 import Bins.Glass;
 import Bins.Landfill;
 import Bins.MixedRecycling;
+import Rubbish.ConversionFactorPlastic;
 import Rubbish.PieceOfRubbish;
 import Rubbish.Plastics.HDPE;
 import Rubbish.Plastics.PET1;
@@ -21,6 +22,7 @@ public class BinsTest {
     MixedRecycling mixedRecycling;
     PET1 pet1;
     Plastic plastic;
+    HDPE hdpe;
 
     @Before
     public void before(){
@@ -28,8 +30,8 @@ public class BinsTest {
         glass = new Glass("glass", 70, "Monday");
         landfill = new Landfill("landfill waste", 60, "Tuesday");
         mixedRecycling = new MixedRecycling("mixed recycling", 40, "Wednesday");
-        pet1 = new PET1("cup", 40, 40, "PET1");
-        plastic = new Plastic("straw", 40, 1, "HDPE");
+        pet1 = new PET1("cup", 40, 40, "PET1", ConversionFactorPlastic.PET1);
+        hdpe = new HDPE("straw", 40, 1, "HDPE",ConversionFactorPlastic.HDPE);
     }
 
     @Test
@@ -74,7 +76,7 @@ public class BinsTest {
     @Test
     public void binFullCantAddTrash(){
         landfill = new Landfill("landfill waste", 5, "Tuesday");
-        pet1 = new PET1("cup", 40, 40, "PET1");
+        pet1 = new PET1("cup", 40, 40, "PET1", ConversionFactorPlastic.PET1);
         assertEquals(false, landfill.addItemsToBin(pet1));
     }
 

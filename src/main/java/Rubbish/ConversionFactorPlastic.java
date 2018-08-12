@@ -3,7 +3,8 @@ package Rubbish;
 public enum ConversionFactorPlastic {
 
     HDPE ("HDPE", 2.45),
-    PET1 ("PET1", 3.45);
+    PET1 ("PET1", 3.45),
+    VEGWARE ("VEGWARE", 4.55);
 
     private String plasticType;
     private double conversionFactor;
